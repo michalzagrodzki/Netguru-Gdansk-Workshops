@@ -1,4 +1,4 @@
-# Netguru-Gdansk-Workshops
+# Netguru Gdansk Workshops
 
 This is project done during workshops held by Netguru in April 2015.
 
